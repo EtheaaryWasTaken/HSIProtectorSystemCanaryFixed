@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const HSIBot = new Discord.Client();
-const Token = "Njc5NjI2NjA0ODk2NzE0Nzc5.XlB1lA.1FdhbU-fPJVmSQHqbkwPSrVJ-ws"
+const Token = "REDACTED, DO NOT TRY TO RUN."
 const PREFIX = '>';
 HSIBot.login(Token)
 HSIBot.on('ready', () =>{
