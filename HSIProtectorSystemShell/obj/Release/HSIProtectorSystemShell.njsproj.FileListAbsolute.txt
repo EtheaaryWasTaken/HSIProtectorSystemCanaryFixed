@@ -1,0 +1,2 @@
+E:\HSIProtectorSystemShellCanary\HSIProtectorSystemShell\HSIProtectorSystemShell\obj\Release\HSIProtectorSystemShell.njsprojAssemblyReference.cache
+E:\HSIProtectorSystemShellCanary\HSIProtectorSystemShell\HSIProtectorSystemShell\bin\Microsoft.NodejsTools.WebRole.dll

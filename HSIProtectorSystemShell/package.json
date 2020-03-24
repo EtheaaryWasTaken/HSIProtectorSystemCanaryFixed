@@ -1,0 +1,23 @@
+{
+  "name": "hsi-protector-system",
+  "version": "0.0.1",
+  "description": "HSI Discord Bot",
+  "main": "HSIProtectorSystemMAIN.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectHSI/HSI-Protector-System.git"
+  },
+  "author": "ProjectHSI",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ProjectHSI/HSI-Protector-System/issues"
+  },
+  "homepage": "https://github.com/ProjectHSI/HSI-Protector-System#readme",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "snek-node": "0.0.2"
+  }
+}
